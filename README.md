@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thanhbinh91
+- 👋 Hi, I’m Thanh-Binh Nguyen
 - 👀 I’m interested in Control of Autonomous Vehicles, Intelligent Control.
 - 🌱 I’m currently learning Mechine Learning and its application on Data-driven Control
-- 💞️ I’m looking to collaborate on UAVs.
+- 💞️ I’m looking to collaborate on flight Experiments of UAVs.
 - 📫 How to reach me thanhbinh91@sejong.ac.kr
 
 <!---
